@@ -54,24 +54,49 @@ código necesario para procesar la vista que solicitan.Productividad
     
     Productividad:
 
-    -Plantillas: Permite crear rápidamente vistas de interfaz de usuario con una sintaxis de 
+-Plantillas: Permite crear rápidamente vistas de interfaz de usuario con una sintaxis de 
     plantilla simple y potente.
  
-    -Angular CLI: Las herramientas de línea de comandos permiten empezar a desarrollar rápidamente,
+-Angular CLI: Las herramientas de línea de comandos permiten empezar a desarrollar rápidamente,
     añadir componentes y realizar test, así como previsualizar de forma instantánea la aplicación.
    
-   -IDEs: Obtén sugerencias de código inteligente, detección de errores y otros comentarios 
+-IDEs: Obtén sugerencias de código inteligente, detección de errores y otros comentarios 
    en la mayoría de los editores populares e IDEs.
    
    Historia completa del desarrollo:
 
-    -Testing: Utiliza Karma para realizar pruebas unitarias, y Protractor para realizar 
+-Testing: Utiliza Karma para realizar pruebas unitarias, y Protractor para realizar 
     pruebas end-to-end de forma rápida y estable.
     
-    -Animación: Permite crear animaciones complejas y de alto rendimiento con muy poco código
+-Animación: Permite crear animaciones complejas y de alto rendimiento con muy poco código
     a través de la intuitiva API de Angular.
     
-    -Accesibilidad: Posee características para crear aplicaciones accesibles con los componentes 
+-Accesibilidad: Posee características para crear aplicaciones accesibles con los componentes 
     disponibles para ARIA.
    
    
+Ahora que ya conoces que es Angular 2 y conoces sus beneficios e ventajas al usar Angular 2 deberiamos
+empezar usar angular 2 deberiamos empezar a ver cosas elementales sobre Angular antes de entrar a fondo
+en Angular 2 en este caso, si gustas ver angular 4 o 5 te sugiero ver mi otro manual donde se encuentran 
+info sobre estas versiones de angular aunque no es mucho pero son cosas que debes conocer sobre esas versiones.
+
+
+
+primero debes saber como instalar Angular en tu sistema operativo en esta caso es linux donde yo estoy.
+
+antes de nada para instalar angular debes tener  Node.js en la  version 8.x , si no saber la version de 
+Node js solamente debes ejecutar en tu terminal el siguiente comando node -v y te dara la version de tu node js
+pero si no lo tienes lo puede instalar para eso instalalo descargando desde su sitio web:
+https://nodejs.org/en/download/current/
+
+ antes de instalar angular debes tener instalar NPM en tu sistema operativo en tu coputadora.
+ 
+ 
+ npm install -g @angular/cli
+
+  con el anterior comando sencillamente puedes intalar el cli de angular el cual es la mejor manera para
+  crear proyectos en angular (te lo recomiendo usar para crear proyectos con anngular 2) si no sabes que 
+  con los CLI te sugiero mirar los siguientes links donde te mostraran info sobre ellas y principalmente 
+  la CLI de angular.
+  
+  
